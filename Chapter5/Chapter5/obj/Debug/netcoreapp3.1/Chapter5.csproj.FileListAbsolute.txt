@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Chapter5\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.exe
+C:\Users\hp\source\repos\Chapter5\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.deps.json
+C:\Users\hp\source\repos\Chapter5\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.runtimeconfig.json
+C:\Users\hp\source\repos\Chapter5\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Chapter5\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.dll
+C:\Users\hp\source\repos\Chapter5\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.pdb
+C:\Users\hp\source\repos\Chapter5\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Chapter5\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Chapter5\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Chapter5\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfo.cs
+C:\Users\hp\source\repos\Chapter5\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.dll
+C:\Users\hp\source\repos\Chapter5\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.pdb
+C:\Users\hp\source\repos\Chapter5\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.genruntimeconfig.cache
